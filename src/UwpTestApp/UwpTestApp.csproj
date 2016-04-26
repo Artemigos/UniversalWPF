@@ -109,9 +109,9 @@
       <Link>Samples\RelativePanels\Sample4.xaml.cs</Link>
       <DependentUpon>Sample4.xaml</DependentUpon>
     </Compile>
-    <Compile Include="..\TestApp\Samples\SplitViews\SV_Sample1.xaml.cs">
-      <Link>Samples\SplitViews\SV_Sample1.xaml.cs</Link>
-      <DependentUpon>SV_Sample1.xaml</DependentUpon>
+    <Compile Include="..\TestApp\Samples\SplitViews\Sample1.xaml.cs">
+      <Link>Samples\SplitViews\Sample1.xaml.cs</Link>
+      <DependentUpon>Sample1.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
@@ -162,8 +162,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\TestApp\Samples\SplitViews\SV_Sample1.xaml">
-      <Link>Samples\SplitViews\SV_Sample1.xaml</Link>
+    <Page Include="..\TestApp\Samples\SplitViews\Sample1.xaml">
+      <Link>Samples\SplitViews\Sample1.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
